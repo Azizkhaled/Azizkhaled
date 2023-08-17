@@ -33,7 +33,6 @@ Intrigued by machine learning during my Electrical and Electronics Engineering s
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azizkhaled&theme=dark&hide_border=true)<br/>
 
-![](https://komarev.com/ghpvc/?username=Azizkhaled&label=PROFILE+VIEWS&&color=dc143c)
-<!--![](https://komarev.com/ghpvc/?username=Azizkhaled&label=PROFILE+VIEWS&&color=145369) -->
+![](https://komarev.com/ghpvc/?username=Azizkhaled&label=VIEWS&color=145369)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
