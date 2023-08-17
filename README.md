@@ -30,4 +30,6 @@ Intrigued by machine learning during my Electrical and Electronics Engineering s
 ### 😂 Meme Of The Day
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+![](https://komarev.com/ghpvc/?username=Azizkhaled&label=PROFILE+VIEWS&&color=dc143c)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
