@@ -21,6 +21,7 @@ Intrigued by machine learning during my Electrical and Electronics Engineering s
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azizkhaled&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azizkhaled&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 -->
+
 ### ✍️ Quote of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
@@ -30,6 +31,8 @@ Intrigued by machine learning during my Electrical and Electronics Engineering s
 ### 😂 Meme Of The Day
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=azizkhaled&theme=dark&hide_border=true)<br/>
 ![](https://komarev.com/ghpvc/?username=Azizkhaled&label=PROFILE+VIEWS&&color=dc143c)
+<!--![](https://komarev.com/ghpvc/?username=Azizkhaled&label=PROFILE+VIEWS&&color=dc143c) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
