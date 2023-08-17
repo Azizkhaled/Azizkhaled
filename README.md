@@ -32,6 +32,7 @@ Intrigued by machine learning during my Electrical and Electronics Engineering s
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azizkhaled&theme=dark&hide_border=true)<br/>
+
 ![](https://komarev.com/ghpvc/?username=Azizkhaled&label=PROFILE+VIEWS&&color=dc143c)
 <!--![](https://komarev.com/ghpvc/?username=Azizkhaled&label=PROFILE+VIEWS&&color=dc143c) -->
 
