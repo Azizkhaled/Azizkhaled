@@ -3,7 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Science, Machine Learning, Computer Vision, Electronics
 ---------------------------------------------------------------
-[![Resume](https://img.shields.io/badge/PDF-Resume-pink)](https://azizkhaled.github.io/images/Aziz_Al%20najjar_Resume.pdf)
+Check this out: [azizalnajjar.ca](azizalnajjar.ca)
+
+
+[![Resume](https://img.shields.io/badge/PDF-Resume-pink)](https://azizalnajjar.ca/links/Resumes/Aziz_Al-najjar_Resume.pdf)
 
 Intrigued by machine learning during my Electrical and Electronics Engineering studies with a warning system for autonomous vehicles, I pursued a Computer Engineering Master's to specialize in data science. I've completed diverse projects, including using 3D point clouds to detect vegetation encroachment on powerlines and predicting financial well-being from surveys. Now, I'm eager to delve further into the realm of NLP, excited by the limitless possibilities it offers.
 
