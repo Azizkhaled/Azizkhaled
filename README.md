@@ -10,6 +10,7 @@ Check this out: [azizalnajjar.ca](https://azizalnajjar.ca/)
 
 Intrigued by machine learning during my Electrical and Electronics Engineering studies with a warning system for autonomous vehicles, I pursued a Computer Engineering Master's to specialize in data science. I've completed diverse projects, including using 3D point clouds to detect vegetation encroachment on powerlines and predicting financial well-being from surveys. Now, I'm eager to delve further into the realm of NLP, excited by the limitless possibilities it offers.
 
+Currently, I am a Data Science and AI Ph.D Student at Carleton University.. 
 
 # 💫 About Me:
  🌍  I'm based in Ottawa, On, Canada<br> ✉️  You can contact me at [azizknajjar@gmail.com](mailto:azizknajjar@gmail.com)<br> 🤝  I'm open to collaborating on Machine learning, NLP, Computer Vision, 3D segmentation projects
