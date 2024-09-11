@@ -32,14 +32,14 @@ Currently, I am a Data Science and AI Ph.D Student at Carleton University..
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' >
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 
-### 😂 Meme Of The Day
+<!-- ### 😂 Meme Of The Day
 
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=azizkhaled&theme=dark&hide_border=true'>
